@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Rahul Dange  
 
-### _Full-Stack Mobile Engineer_ | _Flutter_ | _Cross-Platform_ | _DevOps_
+### _Senior Mobile Engineer_ | _Flutter_ | _Cross-Platform_ | _Android_
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=💡+I+don't+just+build+apps;🎨+I+craft+experiences;⚡+Obsessed+with+smooth+user+experience;🏗️+Clean+architecture+enthusiast;✨+Code+that+feels+as+good+as+it+looks" alt="Typing SVG" />
 
